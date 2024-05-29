@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
+  <img src="https://media.licdn.com/dms/image/D4D16AQHn_3tapU7PPw/profile-displaybackgroundimage-shrink_200_800/0/1674853171683?e=2147483647&v=beta&t=5uo8LrlOB7GIixVMSbmngNDOO0nfFBYjnB8Ztd80D10" alt="Logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm MADHUSUDHAN R</h1>

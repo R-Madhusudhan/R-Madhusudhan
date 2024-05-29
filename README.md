@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg" alt="Logo">
+  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm MADHUSUDHAN R</h1>

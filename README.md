@@ -1,3 +1,34 @@
+<div align="center">
+  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
+</div>
+
+<h1 align="center">Hi 👋, I'm MADHUSUDHAN R</h1>
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">🔒🐧 Linux Defender | Digital Guardian | Uncovering vulnerabilities with precision | 🌐 Safeguarding the digital landscape | #SecurityProtector #CyberDefender
+</h3></br>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+<p align="left"> 
+ 
+</p>
+
+- 🔭 Currently pursuing [OSCP](https://www.offsec.com/courses/pen-200/) certification 🛡️
+
+- 💬 **Let's talk about:**
+  - 🌐 Cybersecurity & Ethical Hacking
+  - 💻 Python, C, Bash Scripting
+  - 🐧 Linux Customization & Servers
+  - 🚀 GitHub Contributions & Open Source
+  - 🔧 Tech Stack Recommendations
+
+Feel free to reach out for vibrant discussions or any questions in these areas! 🚀
+
+-📧 Email: [madhumadhusudhan984@gmail.com](mailto:madhumadhusudhan984@gmail.com)
+
+- ⚡ 🌟 Nocturnal coder: Unleashing tech magic during late-night hours. 🌙💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-r-b44486248/) 

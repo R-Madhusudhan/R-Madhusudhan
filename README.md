@@ -10,17 +10,16 @@
 </h3></br>
 <img align="right" alt="Coding" width="400" src="https://cybrhawk.com/wp-content/uploads/2023/07/djbwgfw.gif">
 
-
 <p align="left"> 
- 
+
+[![](https://visitcount.itsvg.in/api?id=R-Madhusudhan&icon=2&color=4)](https://visitcount.itsvg.in)
 </p>
 
-- 🔭 Currently pursuing [OSCP](https://www.offsec.com/courses/pen-200/) certification 🛡️
+- 🔭 Currently pursuing COMPUTER SCIENCE ENGINEERING
 
 - 💬 **Let's talk about:**
   - 🌐 Cybersecurity & Ethical Hacking
-  - 💻 Python, C, Bash Scripting
-  - 🐧 Linux Customization & Servers
+  - 💻 Python, C, KALI LINUX🐧
   - 🚀 GitHub Contributions & Open Source
   - 🔧 Tech Stack Recommendations
 
@@ -46,10 +45,7 @@ Feel free to reach out for vibrant discussions or any questions in these areas! 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=R-Madhusudhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=R-Madhusudhan&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
